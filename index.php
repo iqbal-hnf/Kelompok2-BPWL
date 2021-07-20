@@ -73,7 +73,6 @@
 			            		<ul class="nav">
 			              			<li class="active"><a href="index.php">Home</a></li>
 			              			<li><a href="produk.php">Produk Kami</a></li>
-									<li><a href="testimoni.php">Testimoni</a></li>
                                     <li><a href="detail.php">Keranjang</a></li>
 			              			<li class="dropdown">
 			                			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Login <b class="caret"></b></a>
@@ -111,25 +110,25 @@
 				<h2>Vape</h2>
 				<p>Kami menyediakan berbagai jenis vape yang juga update dengan perkermbangan mode di era sekarang ini.</p>
 				<a href="#" class="da-link">Lihat Produk</a>
-				<div class="da-img"><img src="img/parallax-slider/kaos.png" alt="image01" /></div>
+				<div class="da-img"><img src="img/parallax-slider/vape1-index.png" alt="image01" /></div>
 			</div>
 			<div class="da-slide">
-				<h2>Jacket & Sweater</h2>
-				<p>Kami memiliki banyak koleksi jacket dan sweater, mulai dari rider jacket hingga casual jacket dan juga casual sweater yang cocok dipakai sehari hari.</p>
+				<h2>Mod & Pod</h2>
+				<p>Kami memiliki banyak koleksi Mod dan pod, mulai dari Mod monster hingga Mod cuby dan juga lighting Pod yang cocok dipakai sehari hari.</p>
 				<a href="#" class="da-link">Lihat Produk</a>
-				<div class="da-img"><img src="img/parallax-slider/jaket5.png" alt="image02" /></div>
+				<div class="da-img"><img src="img/parallax-slider/vape2-index.jpeg" alt="image02" /></div>
 			</div>
 			<div class="da-slide">
-				<h2>Pants & Jeans</h2>
-				<p>Kami memiliki koleksi jeans dan celana santai yang bisa anda gunakan sehari hari dengan harga yang terjangkau anda bisa memiliki koleksi kami.</p>
+				<h2>liquid</h2>
+				<p>Kami memiliki koleksi liquid santai yang bisa anda gunakan sehari hari dengan harga yang terjangkau anda bisa memiliki koleksi kami.</p>
 				<a href="#" class="da-link">Lihat Produk</a>
-				<div class="da-img"><img src="img/parallax-slider/jeans.png" alt="image03" /></div>
+				<div class="da-img"><img src="img/parallax-slider/liquid1-index.jpg" alt="image03" /></div>
 			</div>
 			<div class="da-slide">
-				<h2>Custom T-Shirt</h2>
-				<p>Kami menerima pembuatan kaos custom sesuai dengan design keinginan anda dengan harga yang bisa di sesuaikan dengan kebutuhan anda.</p>
+				<h2>Custom vape</h2>
+				<p>Kami menerima pembuatan vape custom sesuai dengan design keinginan anda dengan harga yang bisa di sesuaikan dengan kebutuhan anda.</p>
 				<a href="#" class="da-link">Lihat Produk</a>
-				<div class="da-img"><img src="img/parallax-slider/kaos.png" alt="image04" /></div>
+				<div class="da-img"><img src="img/parallax-slider/vape3-index.jpg" alt="image04" /></div>
 			</div>
 			<nav class="da-arrows">
 				<span class="da-arrows-prev"></span>
@@ -149,7 +148,7 @@
       		<!-- start: Hero Unit - Main hero unit for a primary marketing message or call to action -->
       		<div class="hero-unit">
         		<p>
-					Kami adalah distro online terlengkap dan terpercaya, dengan harga terjangkau kurang dari 100rb anda sudah dapat memiliki produk kami. Selamat Berbelanja Customer..
+					Kami adalah toko vape online terlengkap dan terpercaya, dengan harga terjangkau kurang dari 100rb anda sudah dapat memiliki produk kami. Selamat Berbelanja Customer..
 				</p>
         		<p><a class="btn btn-success btn-large" href="produk.php">Mulai Berbelanja &raquo;</a></p>
                                 
@@ -190,22 +189,7 @@
 			<hr>
 		
 			<!-- start Clients List -->	
-			<div class="clients-carousel">
-		
-				<ul class="slides clients">
-					<li><img src="img/logos/1.png" alt=""/></li>
-					<li><img src="img/logos/2.png" alt=""/></li>	
-					<li><img src="img/logos/3.png" alt=""/></li>
-					<li><img src="img/logos/4.png" alt=""/></li>
-					<li><img src="img/logos/5.png" alt=""/></li>
-					<li><img src="img/logos/6.png" alt=""/></li>
-					<li><img src="img/logos/7.png" alt=""/></li>
-					<li><img src="img/logos/8.png" alt=""/></li>
-					<li><img src="img/logos/9.png" alt=""/></li>
-					<li><img src="img/logos/10.png" alt=""/></li>		
-				</ul>
-		
-			</div>
+			
 			<!-- end Clients List -->
 		
 			<hr>
@@ -222,7 +206,7 @@
 							<i class="ico-ok ico-color circle-color big"></i>
 							<div class="icons-box-vert-info">
 								<h3>Kemudahan Berbelanja</h3>
-								<p>Dapatkan kemudahan berbelanja di DistroIT Cikarang, Kami menyediakan kebutuhan untuk fasion anda.</p>
+								<p>Dapatkan kemudahan berbelanja di AriqStore Pekanbaru, Kami menyediakan vape dan liquid.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -248,7 +232,7 @@
 							<i class="ico-ipad ico-color circle-color big"></i>
 							<div class="icons-box-vert-info">
 								<h3>Berbelanja Dengan Gadget</h3>
-								<p>Anda bisa memesan produk kami melalui gadget kesayangan anda, belanja di DistroIT cikarang praktis dan mudah.</p>
+								<p>Anda bisa memesan produk kami melalui gadget kesayangan anda, belanja di AriqStore Pekanbaru praktis dan mudah.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -306,15 +290,13 @@
 
 						<ul id="footer-nav">
 
-							<li><a href="#">Kemeja</a></li>
+							<li><a href="#">vape</a></li>
 
-							<li><a href="#">Kaos</a></li>
+							<li><a href="#">Pod</a></li>
 
-							<li><a href="#">Sweater</a></li>
+							<li><a href="#">Mod</a></li>
 
-							<li><a href="#">Jacket</a></li>
-							
-							<li><a href="#">Pants & Jeans</a></li>
+							<li><a href="#">Liquid</a></li>
 
 						</ul>
 
@@ -354,9 +336,9 @@
 				<!-- start: About -->
 				<div class="span3">
 					
-					<h3>Tentang DistroIT</h3>
+					<h3>Tentang AriqStore</h3>
 					<p>
-						DistroIT adalah toko online yang bergerak di bidang fasion, sasaran kami semua kalangan baik muda maupun tua, mulai dari anak - anak dan orang dewasa.
+						AriqStore adalah toko online yang bergerak di bidang Vape, sasaran kami adalah kalangan muda, karena vape hanya untuk 18+.
 					</p>
 						
 				</div>
@@ -366,9 +348,8 @@
 				<div class="span3">
 					
 					<h3>Alamat Kami</h3>
-					Kp. Wangkal Rt.03 Rw.07 Desa Kalijaya Kecamatan Cikarang Utara Kabupaten Bekasi 17530<br />
+					Jl.Umban sari, Rumbai, Pekanbaru, Riau<br />
                     Telp : 085694984803<br />
-                    Email : <a href="mailto:hakko_bio_richard@yahoo.co.id">hakko_bio_richard@yahoo.co.id</a> / <a href="mailto:hakkobiorichard@gmail.com">hakkobiorichard@gmail.com</a>
 				</div>
 				<!-- end: Photo Stream -->
 
@@ -464,7 +445,7 @@
 		<div class="container">
 		
 			<p>
-				Copyright &copy; <a href="http://www.niqoweb.com">DistroIT 2015</a> <a href="http://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> designed by BootstrapMaster
+				Copyright &copy; <a href="http://www.niqoweb.com">AriqStore</a> <a href="http://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> designed by BootstrapMaster
 			</p>
 	
 		</div>
