@@ -13,7 +13,7 @@ if ($data['username']==$username){
 	$_SESSION['username']    = $username;
     //$_SESSION['password']    = $password;
 
-	echo "<script>alert('Selamat datang $username'); window.location = 'index.php'</script>";	
+	echo "<script>alert('Selamat datang $username'); window.location = '../Kelompok2-BPWL/admin'</script>";	
 } else {
 	echo "<script>alert('Username dan Password tidak valid.'); window.location = 'index.html'</script>";	
 }
