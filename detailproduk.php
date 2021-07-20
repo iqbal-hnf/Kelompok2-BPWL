@@ -7,10 +7,10 @@
 <head>
 	<!-- start: Meta -->
 	<meta charset="utf-8">
-	<title>DistroIT | Distro Online telengkap dan terpercaya di cikarang</title> 
-	<meta name="description" content="Distro, cikarang, terlengkap, information, technology, jababeka, baru, murah"/>
-	<meta name="keywords" content="Kaos, Murah, Cikarang, Baru, terlengkap, harga, terjangkau" />
-	<meta name="author" content="Hakko Bio Richard"/>
+	<title>ARIQ Vapestore | Vapestore telengkap dan terpercaya di Pekanbaru</title> 
+	<meta name="description" content="Vapestore, Pekanbaru, terlengkap, information, technology, baru, murah"/>
+	<meta name="keywords" content="vape dan liquid, Murah, Pekanbaru, Baru, terlengkap, harga, terjangkau" />
+	<meta name="author" content="Aqsal Iqbal Riandy"/>
 	<!-- end: Meta -->
 	
 	<!-- start: Mobile Specific -->
@@ -54,7 +54,7 @@
 				<!--start: Logo -->
 				<div class="logo span3">
 						
-					<a class="brand" href="#"><img src="img/logo2.png" alt="Logo"></a>
+					<a class="brand" href="#"><img src="img/LogoBrand.jpeg" alt="Logo"></a>
 						
 				</div>
 				<!--end: Logo -->
@@ -73,7 +73,6 @@
 			            		<ul class="nav">
 			              			<li class="active"><a href="index.php">Home</a></li>
 			              			<li><a href="produk.php">Produk Kami</a></li>
-									<li><a href="testimoni.php">Testimoni</a></li>
                                     <li><a href="detail.php">Keranjang</a></li>
 			              			<li class="dropdown">
 			                			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Login <b class="caret"></b></a>
@@ -259,22 +258,7 @@ $data  = mysqli_fetch_array($query);
 			<hr>
 		
 			<!-- start Clients List -->	
-			<div class="clients-carousel">
-		
-				<ul class="slides clients">
-					<li><img src="img/logos/1.png" alt=""/></li>
-					<li><img src="img/logos/2.png" alt=""/></li>	
-					<li><img src="img/logos/3.png" alt=""/></li>
-					<li><img src="img/logos/4.png" alt=""/></li>
-					<li><img src="img/logos/5.png" alt=""/></li>
-					<li><img src="img/logos/6.png" alt=""/></li>
-					<li><img src="img/logos/7.png" alt=""/></li>
-					<li><img src="img/logos/8.png" alt=""/></li>
-					<li><img src="img/logos/9.png" alt=""/></li>
-					<li><img src="img/logos/10.png" alt=""/></li>		
-				</ul>
-		
-			</div>
+			
 			<!-- end Clients List -->
 		
 			<hr>
@@ -309,15 +293,13 @@ $data  = mysqli_fetch_array($query);
 
 						<ul id="footer-nav">
 
-							<li><a href="#">Kemeja</a></li>
+							<li><a href="#">vape</a></li>
 
-							<li><a href="#">Kaos</a></li>
+							<li><a href="#">Pod</a></li>
 
-							<li><a href="#">Sweater</a></li>
+							<li><a href="#">Mod</a></li>
 
-							<li><a href="#">Jacket</a></li>
-							
-							<li><a href="#">Pants & Jeans</a></li>
+							<li><a href="#">Liquid</a></li>
 
 						</ul>
 
@@ -357,9 +339,9 @@ $data  = mysqli_fetch_array($query);
 				<!-- start: About -->
 				<div class="span3">
 					
-					<h3>Tentang DistroIT</h3>
+					<h3>Tentang AriqStore</h3>
 					<p>
-						DistroIT adalah toko online yang bergerak di bidang fasion, sasaran kami semua kalangan baik muda maupun tua, mulai dari anak - anak dan orang dewasa.
+						AriqStore adalah toko online yang bergerak di bidang Vape, sasaran kami adalah kalangan muda, karena vape hanya untuk 18+.
 					</p>
 						
 				</div>
@@ -369,9 +351,8 @@ $data  = mysqli_fetch_array($query);
 				<div class="span3">
 					
 					<h3>Alamat Kami</h3>
-					Kp. Wangkal Rt.03 Rw.07 Desa Kalijaya Kecamatan Cikarang Utara Kabupaten Bekasi 17530<br />
+					Jl.Umban sari, Rumbai, Pekanbaru, Riau<br />
                     Telp : 085694984803<br />
-                    Email : <a href="mailto:hakko_bio_richard@yahoo.co.id">hakko_bio_richard@yahoo.co.id</a> / <a href="mailto:hakkobiorichard@gmail.com">hakkobiorichard@gmail.com</a>
 				</div>
 				<!-- end: Photo Stream -->
 
@@ -467,7 +448,7 @@ $data  = mysqli_fetch_array($query);
 		<div class="container">
 		
 			<p>
-				Copyright &copy; <a href="http://www.niqoweb.com">DistroIT 2015</a> <a href="http://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> designed by BootstrapMaster
+				Copyright &copy; <a href="http://www.niqoweb.com">AriqStore 2021</a> <a href="http://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> designed by BootstrapMaster
 			</p>
 	
 		</div>
